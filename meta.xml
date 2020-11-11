@@ -5,6 +5,4 @@
     <script src="functions-s.lua" />
 	<script src="main-c.lua" type="client"/>
 
-    <!-- <oop>true</oop> -->
-
 </meta>
