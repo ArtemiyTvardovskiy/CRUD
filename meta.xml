@@ -3,6 +3,6 @@
     <info author = "Night_Lanterns" name = "CRUD"></info>
     <script src="main-s.lua" />
     <script src="functions-s.lua" />
-	<script src="main-c.lua" type="client"/>
+    <script src="main-c.lua" type="client"/>
 
 </meta>
